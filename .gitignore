@@ -1,0 +1,4 @@
+testfs
+*.gch
+*.o
+*.a
